@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="1.0">
+	<war>
+		<time>09151500</time>
+	</war>	
+	
+	<war>
+                <time>09151501</time>
+        </war>
+	
+	<war>
+                <id>1</id>
+		<time>08151500</time>
+		<type>cw</type>
+		<opponent>b-e-x</opponent>
+	       	<player state="plays" name="maldn"></player>
+		<player state="ill" name="maldn222"></player>
+		<player state="dreck" name="maldn1"></player>
+		<player state="mooh" name="maldn2"></player>
+
+	</war>
+
+</opml>

@@ -1,0 +1,31 @@
+<?xml version = '1.0' encoding = 'ISO-8859-1'?>
+<opml version="1.0" >
+<general>
+ <verbose>2</verbose>
+</general>
+ <irc>
+  <server>irc.freenode.net</server>
+  <port>6667</port>
+  <channel>#cwbot</channel>
+  <nick>cslk|cwbot</nick>
+  <altNick>x2436x</altNick>
+  <username>cwbot</username>
+  <realname>cwbot.berlios.de</realname>
+  <password>moooh</password>
+ </irc>
+ <ircTheme>
+  <colors>
+   <terror>4</terror>
+   <ct>2</ct>
+  </colors>
+ </ircTheme>
+ <csServer>
+  <ip>192.168.1.1</ip>
+  <port>27016</port>
+  <rconPassword>gentoorulez</rconPassword>
+  <localLogPort>1500</localLogPort>
+  <localRconPort>1501</localRconPort>
+  <localIP>192.168.1.1</localIP>
+ </csServer>
+</opml>
+
